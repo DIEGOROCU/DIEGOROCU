@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/output/snake.svg" alt="Snake animation" />
+[comment]: <> ( <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/output/snake.svg" alt="Snake animation" /> )
 
 ###
 
