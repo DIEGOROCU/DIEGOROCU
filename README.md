@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Diego and I'm a Computer engineering and Math student from UCM, Madrid, Spain</h2>
+<h2 align="left">Hi 👋! My name is Diego and I'm a Computer Engineering and Math student from UCM, Madrid, Spain</h2>
 
 ###
 
