@@ -9,8 +9,8 @@
 
 ###
 
-# Practicas FdI UCM
-En este repositorio se encuentran las practicas realizadas de las siguientes asignaturas:
+# My proyects fromUCM
+This are all the proyects I have done during my Dual Bachelor's Degree in Computer Engineering and Mathematics at Complutense University of Madrid:
 
 - [1º curso](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/1%C2%BA)
 	- [1º semestre](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/1%C2%BA/1%C2%BA%20semestre)
