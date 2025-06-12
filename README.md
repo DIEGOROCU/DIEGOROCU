@@ -9,7 +9,7 @@
 
 ###
 
-# My proyects fromUCM
+# My proyects in UCM
 This are all the projects and exercises I have done during my Dual Bachelor's Degree in Computer Engineering and Mathematics at Complutense University of Madrid:
 
 - [1º curso](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/1%C2%BA)
