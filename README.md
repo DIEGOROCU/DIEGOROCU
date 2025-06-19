@@ -12,13 +12,13 @@
 # My proyects in UCM
 This are all the projects and exercises I have done during my Dual Bachelor's Degree in Computer Engineering and Mathematics at Complutense University of Madrid:
 
-- 1º year
+- # 1º year
 	- 1º semester
 		- [FP 1](https://github.com/DIEGOROCU/FP1-Practica)
 	- 2º semester
 		- [FP 2](https://github.com/DIEGOROCU/FP2-Practica)
 		- [FC 2](https://github.com/DIEGOROCU/FC2-Practica)
-- 2º year
+- # 2º year
 	- 1º semester
 		- [FAL](https://github.com/DIEGOROCU/FAL-Ejericios)
 		- [TP 1](https://github.com/DIEGOROCU/TP1-Practica)
