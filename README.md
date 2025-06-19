@@ -12,22 +12,21 @@
 # My proyects in UCM
 This are all the projects and exercises I have done during my Dual Bachelor's Degree in Computer Engineering and Mathematics at Complutense University of Madrid:
 
-- [1º curso](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/1%C2%BA)
-	- [1º semestre](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/1%C2%BA/1%C2%BA%20semestre)
-		- [FC 1](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/1%C2%BA/1%C2%BA%20semestre/FC%201)
-	- [2º semestre](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/1%C2%BA/2%C2%BA%20semestre)
-		- [FC 2](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/1%C2%BA/2%C2%BA%20semestre/FC%202)
-- [2º curso](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA)
-	- [1º semestre](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/1%C2%BA%20semestre)
-		- [AM](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/1%C2%BA%20semestre/AM)
-		- [BD](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/1%C2%BA%20semestre/BD)
-		- [FAL](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/1%C2%BA%20semestre/FAL)
-		- [TOC](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/1%C2%BA%20semestre/TOC)
-		- [TP 1](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/1%C2%BA%20semestre/TP%201)
-	- [2º semestre](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/2%C2%BA%20semestre)
-		- [EC](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/2%C2%BA%20semestre/EC)
-		- [ED](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/2%C2%BA%20semestre/ED)
-		- [TP 2](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/2%C2%BA%20semestre/TP%202)
+- [1º year]
+	- [1º semester]
+		- [FP 1](https://github.com/DIEGOROCU/FP1-Practica)
+	- [2º semester]
+		- [FP 2](https://github.com/DIEGOROCU/FP2-Practica)
+		- [FC 2](https://github.com/DIEGOROCU/FC2-Practica)
+- [2º year]
+	- [1º semester]
+		- [FAL](https://github.com/DIEGOROCU/FAL-Ejericios)
+		- [TP 1](https://github.com/DIEGOROCU/TP1-Practica)
+	- [2º semester](https://github.com/MarkelAlvarez/Practicas-FdI-UCM/tree/master/2%C2%BA/2%C2%BA%20semestre)
+		- [ED](https://github.com/DIEGOROCU/ED-Ejercicios)
+  		- [ESTADISTICA](https://github.com/DIEGOROCU/Estadistica-Practica) 
+		- [IS 2](https://github.com/DIEGOROCU/IS2-Proyecto?tab=readme-ov-file)
+		- [TP 2](https://github.com/DIEGOROCU/TP2-Practica)
 
 ###
 
