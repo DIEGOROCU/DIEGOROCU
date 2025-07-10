@@ -51,16 +51,15 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
 # Useful links
 
 <div align="left">
-	
   <a href="https://www.linkedin.com/in/diego-rodr%C3%ADguez-cubero-71a733205/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
- <a href="https://github.com/tuUsuario/tuRepo/raw/main/CV-Diego.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/CV-PDF-green?style=for-the-badge&logo=readme" height="35" alt="cv" />
-</a>
-
+  <a href="https://github.com/DIEGOROCU/DIEGOROCU/raw/main/CV_DiegoRodriguezCubero.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Curriculum&logo=readme&label=&color=4CAF50&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cv link" />
+  </a>
 </div>
+
 
 ###
 
