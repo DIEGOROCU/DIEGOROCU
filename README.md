@@ -51,7 +51,7 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
 # Useful links
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/diego-rodr%C3%ADguez-cubero-71a733205/" target="_blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/diego-rodr%C3%ADguez-cubero-71a733205/" target="_blank" style="margin-right: 25px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
