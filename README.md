@@ -59,6 +59,3 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
 
 ###
 
-<img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/output/snake.svg" alt="Snake animation" />
-
-###
