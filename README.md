@@ -14,19 +14,20 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
 
 - **1º year**
 	- 1º semester
-		- [FP 1](https://github.com/DIEGOROCU/FP1-Practica)
+		- [FUNDAMENTOS DE LA PROGRAMACIÓN 1](https://github.com/DIEGOROCU/FP1-Practica)
 	- 2º semester
-		- [FP 2](https://github.com/DIEGOROCU/FP2-Practica)
-		- [FC 2](https://github.com/DIEGOROCU/FC2-Practica)
+		- [FUNDAMENTOS DE LA PROGRAMACIÓN 2](https://github.com/DIEGOROCU/FP2-Practica)
+		- [FUNDAMENTOS DE COMPUTADORES 2](https://github.com/DIEGOROCU/FC2-Practica)
 - **2º year**
 	- 1º semester
-		- [FAL](https://github.com/DIEGOROCU/FAL-Ejericios)
-		- [TP 1](https://github.com/DIEGOROCU/TP1-Practica)
+		- [FUNDAMENTOS DE LA ALGORITMIA](https://github.com/DIEGOROCU/FAL-Ejericios)
+		- [TECNOLOGIA DE LA PROGRAMACIÓN 1](https://github.com/DIEGOROCU/TP1-Practica)
 	- 2º semester
-		- [ED](https://github.com/DIEGOROCU/ED-Ejercicios)
-  		- [ESTADISTICA](https://github.com/DIEGOROCU/Estadistica-Practica) 
-		- [IS 2](https://github.com/DIEGOROCU/IS2-Proyecto?tab=readme-ov-file)
-		- [TP 2](https://github.com/DIEGOROCU/TP2-Practica)
+		- [ESTRUCTURAS DE DATOS](https://github.com/DIEGOROCU/ED-Ejercicios)
+  		- [ESTADISTICA EJERCICIOS](https://github.com/DIEGOROCU/Estadistica-Practica)
+    	- [CÁLCULO INTEGRAL APUNTES](https://github.com/Pau-Frangi/Calculo-Integral)  
+		- [INGENIERIA DEL SOFTWARE 2](https://github.com/DIEGOROCU/IS2-Proyecto?tab=readme-ov-file)
+		- [TECNOLOGIA DE LA PROGRAMACIÓN 2](https://github.com/DIEGOROCU/TP2-Practica)
 
 ###
 
