@@ -14,7 +14,8 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
 
 - **1º year**
 	- 1º semester
-		- [FUNDAMENTOS DE LA PROGRAMACIÓN 1](https://github.com/DIEGOROCU/FP1-Practica)
+		- [FUNDAMENTOS DE LA PROGRAMACIÓN 1](https://github.com/DIEGOROCU/FP1-Practica) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="8" />
 	- 2º semester
 		- [FUNDAMENTOS DE LA PROGRAMACIÓN 2](https://github.com/DIEGOROCU/FP2-Practica)
 		- [FUNDAMENTOS DE COMPUTADORES 2](https://github.com/DIEGOROCU/FC2-Practica)
