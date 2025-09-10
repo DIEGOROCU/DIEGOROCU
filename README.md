@@ -16,36 +16,25 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
 	- 1º semester
 		- [FUNDAMENTOS DE LA PROGRAMACIÓN 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/FP1-Practica)
-
 	- 2º semester
 		- [FUNDAMENTOS DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/FP2-Practica)
-
 		- [FUNDAMENTOS DE COMPUTADORES 2](https://github.com/DIEGOROCU/FC2-Practica)
-
 - **2º year**
 	- 1º semester
 		- [FUNDAMENTOS DE LA ALGORITMIA <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/FAL-Ejericios)
-
 		- [TECNOLOGIA DE LA PROGRAMACIÓN 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/TP1-Practica)
-
 	- 2º semester
 		- [ESTRUCTURAS DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/ED-Ejercicios)
-
-  		- [ESTADISTICA EJERCICIOS](https://github.com/DIEGOROCU/Estadistica-Practica)<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="6" />
-
-    	- [CÁLCULO INTEGRAL APUNTES](https://github.com/Pau-Frangi/Calculo-Integral) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
-  <img width="6" />
-
-  		- [INGENIERIA DEL SOFTWARE 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  
+  		- [ESTADISTICA EJERCICIOS](https://github.com/DIEGOROCU/Estadistica-Practica)
+    	- [CÁLCULO INTEGRAL APUNTES](https://github.com/Pau-Frangi/Calculo-Integral)  
+		- [INGENIERIA DEL SOFTWARE 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/IS2-Proyecto?tab=readme-ov-file)
 		- [TECNOLOGIA DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="6" />](https://github.com/DIEGOROCU/TP2-Practica)
+  <img width="12" />](https://github.com/DIEGOROCU/TP2-Practica)
 
 ###
 
