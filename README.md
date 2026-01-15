@@ -55,11 +55,11 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
 	- 2º semester
 		- [ESTRUCTURAS DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/ED-Ejercicios)
-		- [ESTADISTICA APUNTES <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+		- [ESTADISTICA APUNTES <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/PabloPC05/Estadistica)
-  		- [ESTADISTICA EJERCICIOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  		- [ESTADISTICA EJERCICIOS <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/Estadistica-Practica)
-    	- [CÁLCULO INTEGRAL APUNTES <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+    	- [CÁLCULO INTEGRAL APUNTES <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/Pau-Frangi/Calculo-Integral)  
 		- [INGENIERIA DEL SOFTWARE 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/IS2-Proyecto?tab=readme-ov-file)
@@ -71,10 +71,11 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
   <img width="6" />](https://github.com/DIEGOROCU/BD)
 		- [METODOS ALGORITMICOS EN RESOLUCION DE PROBLEMAS 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/MARP1)
-		- [TECNOLOGIA Y ORGANIZACION DE COMPUTADORES](https://github.com/DIEGOROCU/TOC)
-		- [ANALISIS DE FUNCIONES DE VARIABLE COMPLEJA <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+		- [TECNOLOGIA Y ORGANIZACION DE COMPUTADORES <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/VHDL.png" height="30" alt="vhdl logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/TOC)
+		- [ANALISIS DE FUNCIONES DE VARIABLE COMPLEJA <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/Pau-Frangi/Variable-Compleja)
-		- [GEOMETRIA LINEAL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+		- [GEOMETRIA LINEAL <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/Pau-Frangi/Geometria-Lineal)
 
 ###
@@ -96,11 +97,15 @@ Other personal projects I have worked on during my free time:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/VHDL.png" height="30" alt="vhdl logo"  />
 </div>
 
 ###
