@@ -10,6 +10,32 @@
 ###
 
 # My proyects in UCM
+<!--
+1º year
+  1º semester
+    FUNDAMENTOS DE LA PROGRAMACIÓN 1 - C++ - https://github.com/DIEGOROCU/FP1-Practica
+  2º semester
+    FUNDAMENTOS DE LA PROGRAMACIÓN 2 - C++ - https://github.com/DIEGOROCU/FP2-Practica
+    FUNDAMENTOS DE COMPUTADORES 2 - - https://github.com/DIEGOROCU/FC2-Practica
+2º year
+  1º semester
+    FUNDAMENTOS DE LA ALGORITMIA - C++ - https://github.com/DIEGOROCU/FAL-Ejericios
+    TECNOLOGIA DE LA PROGRAMACIÓN 1 - Java - https://github.com/DIEGOROCU/TP1-Practica
+  2º semester
+    ESTRUCTURAS DE DATOS - C++ - https://github.com/DIEGOROCU/ED-Ejercicios
+    ESTADISTICA APUNTES - LaTeX - https://github.com/PabloPC05/Estadistica
+    ESTADISTICA EJERCICIOS - LaTeX - https://github.com/DIEGOROCU/Estadistica-Practica
+    CÁLCULO INTEGRAL APUNTES - LaTeX - https://github.com/Pau-Frangi/Calculo-Integral
+    INGENIERIA DEL SOFTWARE 2 - C++ - https://github.com/DIEGOROCU/IS2-Proyecto
+    TECNOLOGIA DE LA PROGRAMACIÓN 2 - Java - https://github.com/DIEGOROCU/TP2-Practica
+3º year
+  1º semester
+    BASES DE DATOS - SQL - https://github.com/DIEGOROCU/BD
+    METODOS ALGORITMICOS EN RESOLUCION DE PROBLEMAS 1 - C++ - https://github.com/DIEGOROCU/MARP1
+    TECNOLOGIA Y ORGANIZACION DE COMPUTADORES - VHDL - https://github.com/DIEGOROCU/TOC
+    ANALISIS DE FUNCIONES DE VARIABLE COMPLEJA - LaTeX - https://github.com/Pau-Frangi/Variable-Compleja
+    GEOMETRIA LINEAL - LaTeX - https://github.com/Pau-Frangi/Geometria-Lineal
+-->
 This are all the projects and exercises I have done during my Dual Bachelor's Degree in Computer Engineering and Mathematics at Complutense University of Madrid:
 
 - **1º year**
@@ -29,12 +55,35 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
 	- 2º semester
 		- [ESTRUCTURAS DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/ED-Ejercicios)
-  		- [ESTADISTICA EJERCICIOS](https://github.com/DIEGOROCU/Estadistica-Practica)
-    	- [CÁLCULO INTEGRAL APUNTES](https://github.com/Pau-Frangi/Calculo-Integral)  
+		- [ESTADISTICA APUNTES <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/PabloPC05/Estadistica)
+  		- [ESTADISTICA EJERCICIOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/Estadistica-Practica)
+    	- [CÁLCULO INTEGRAL APUNTES <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/Pau-Frangi/Calculo-Integral)  
 		- [INGENIERIA DEL SOFTWARE 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/IS2-Proyecto?tab=readme-ov-file)
 		- [TECNOLOGIA DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />](https://github.com/DIEGOROCU/TP2-Practica)
+- **3º year**
+	- 1º semester
+		- [BASES DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="sql logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/BD)
+		- [METODOS ALGORITMICOS EN RESOLUCION DE PROBLEMAS 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/MARP1)
+		- [TECNOLOGIA Y ORGANIZACION DE COMPUTADORES](https://github.com/DIEGOROCU/TOC)
+		- [ANALISIS DE FUNCIONES DE VARIABLE COMPLEJA <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/Pau-Frangi/Variable-Compleja)
+		- [GEOMETRIA LINEAL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/Pau-Frangi/Geometria-Lineal)
+
+###
+
+# Other proyects
+
+Other personal projects I have worked on during my free time:
+
+- [**AgroGuard Hackaton**](https://github.com/DIEGOROCU/AgroGuard-Hackaton)
 
 ###
 
