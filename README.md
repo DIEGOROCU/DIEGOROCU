@@ -90,7 +90,7 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
   <img width="6" />](https://github.com/Pau-Frangi/Variable-Compleja)
 		- [GEOMETRIA LINEAL <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/Pau-Frangi/Geometria-Lineal)
-	- [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
+- [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 
 ###
 
