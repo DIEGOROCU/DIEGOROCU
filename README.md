@@ -57,6 +57,7 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
 		- [FUNDAMENTOS DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/FP2-Practica)
 		- [FUNDAMENTOS DE COMPUTADORES 2](https://github.com/DIEGOROCU/FC2-Practica)
+	- [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 - **2º year**
 	- 1º semester
 		- [FUNDAMENTOS DE LA ALGORITMIA <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -76,6 +77,7 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
   <img width="6" />](https://github.com/DIEGOROCU/IS2-Proyecto?tab=readme-ov-file)
 		- [TECNOLOGIA DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />](https://github.com/DIEGOROCU/TP2-Practica)
+	- [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 - **3º year**
 	- 1º semester
 		- [BASES DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="sql logo"  />
@@ -88,6 +90,7 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
   <img width="6" />](https://github.com/Pau-Frangi/Variable-Compleja)
 		- [GEOMETRIA LINEAL <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/Pau-Frangi/Geometria-Lineal)
+	- [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 
 ###
 
