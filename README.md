@@ -3,20 +3,18 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DIEGOROCU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DIEGOROCU&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-
-<!--
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DIEGOROCU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGOROCU&theme=tokyonight" height="180" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOROCU&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="Top Languages" />
+</div>
+
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DIEGOROCU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DIEGOROCU&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 -->
 
@@ -92,7 +90,8 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
   <img width="6" />](https://github.com/Pau-Frangi/Variable-Compleja)
 		- [GEOMETRIA LINEAL <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/Pau-Frangi/Geometria-Lineal)
-- [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
+- **Otros**
+  - [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 
 ###
 
