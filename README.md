@@ -74,7 +74,7 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
     	- [CÁLCULO INTEGRAL APUNTES <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/Pau-Frangi/Calculo-Integral)  
 		- [INGENIERIA DEL SOFTWARE 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="6" />](https://github.com/DIEGOROCU/IS2-Proyecto?tab=readme-ov-file)
+  <img width="6" />](https://github.com/DIEGOROCU/IS2-Proyecto?tab=readme-ov-file) **Proyecto destacado y complejo (IS2)**
 		- [TECNOLOGIA DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />](https://github.com/DIEGOROCU/TP2-Practica)
 	- [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
