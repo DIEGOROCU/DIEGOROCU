@@ -80,7 +80,8 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
   <img width="6" />](https://github.com/DIEGOROCU/FAL-Ejericios)
     - [TECNOLOGIA DE LA PROGRAMACIÓN 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/TP1-Practica)
-  - [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
+  - [**Plantilla de Apuntes** <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 - **1º year**
   - 2º semester
     - [FUNDAMENTOS DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -89,9 +90,9 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
   - 1º semester
     - [FUNDAMENTOS DE LA PROGRAMACIÓN 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/FP1-Practica)
-  - [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 - **Otros**
-  - [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
+  - [**Plantilla de Apuntes** <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 
 ###
 
