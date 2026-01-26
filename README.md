@@ -49,47 +49,47 @@
 -->
 This are all the projects and exercises I have done during my Dual Bachelor's Degree in Computer Engineering and Mathematics at Complutense University of Madrid:
 
-- **1º year**
-	- 1º semester
-		- [FUNDAMENTOS DE LA PROGRAMACIÓN 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="6" />](https://github.com/DIEGOROCU/FP1-Practica)
-	- 2º semester
-		- [FUNDAMENTOS DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="6" />](https://github.com/DIEGOROCU/FP2-Practica)
-		- [FUNDAMENTOS DE COMPUTADORES 2](https://github.com/DIEGOROCU/FC2-Practica)
-	- [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
+- **3º year**
+  - 1º semester
+    - [BASES DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="sql logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/BD)
+    - [METODOS ALGORITMICOS EN RESOLUCION DE PROBLEMAS 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/MARP1)
+    - [TECNOLOGIA Y ORGANIZACION DE COMPUTADORES <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/VHDL.png" height="30" alt="vhdl logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/TOC)
+    - [ANALISIS DE FUNCIONES DE VARIABLE COMPLEJA <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/Pau-Frangi/Variable-Compleja)
+    - [GEOMETRIA LINEAL <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/Pau-Frangi/Geometria-Lineal)
 - **2º year**
-	- 1º semester
-		- [FUNDAMENTOS DE LA ALGORITMIA <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="6" />](https://github.com/DIEGOROCU/FAL-Ejericios)
-		- [TECNOLOGIA DE LA PROGRAMACIÓN 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="6" />](https://github.com/DIEGOROCU/TP1-Practica)
-	- 2º semester
-		- [ESTRUCTURAS DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  - 2º semester
+    - [ESTRUCTURAS DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/ED-Ejercicios)
-		- [ESTADISTICA APUNTES <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
+    - [ESTADISTICA APUNTES <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/PabloPC05/Estadistica)
   		- [ESTADISTICA EJERCICIOS <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/Estadistica-Practica)
     	- [CÁLCULO INTEGRAL APUNTES <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/Pau-Frangi/Calculo-Integral)  
-		- [INGENIERIA DEL SOFTWARE 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+    - [INGENIERIA DEL SOFTWARE 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/IS2-Proyecto?tab=readme-ov-file) **Proyecto full-stack (IS2)**
-		- [TECNOLOGIA DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+    - [TECNOLOGIA DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />](https://github.com/DIEGOROCU/TP2-Practica)
-	- [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
-- **3º year**
-	- 1º semester
-		- [BASES DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="sql logo"  />
-  <img width="6" />](https://github.com/DIEGOROCU/BD)
-		- [METODOS ALGORITMICOS EN RESOLUCION DE PROBLEMAS 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="6" />](https://github.com/DIEGOROCU/MARP1)
-		- [TECNOLOGIA Y ORGANIZACION DE COMPUTADORES <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/VHDL.png" height="30" alt="vhdl logo"  />
-  <img width="6" />](https://github.com/DIEGOROCU/TOC)
-		- [ANALISIS DE FUNCIONES DE VARIABLE COMPLEJA <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
-  <img width="6" />](https://github.com/Pau-Frangi/Variable-Compleja)
-		- [GEOMETRIA LINEAL <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
-  <img width="6" />](https://github.com/Pau-Frangi/Geometria-Lineal)
+  - 1º semester
+    - [FUNDAMENTOS DE LA ALGORITMIA <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/FAL-Ejericios)
+    - [TECNOLOGIA DE LA PROGRAMACIÓN 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/TP1-Practica)
+  - [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
+- **1º year**
+  - 2º semester
+    - [FUNDAMENTOS DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/FP2-Practica)
+    - [FUNDAMENTOS DE COMPUTADORES 2](https://github.com/DIEGOROCU/FC2-Practica)
+  - 1º semester
+    - [FUNDAMENTOS DE LA PROGRAMACIÓN 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/FP1-Practica)
+  - [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 - **Otros**
   - [**Plantilla de Apuntes**](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 
