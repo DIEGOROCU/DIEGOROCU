@@ -46,6 +46,8 @@
     TECNOLOGIA Y ORGANIZACION DE COMPUTADORES - VHDL - https://github.com/DIEGOROCU/TOC
     ANALISIS DE FUNCIONES DE VARIABLE COMPLEJA - LaTeX - https://github.com/Pau-Frangi/Variable-Compleja
     GEOMETRIA LINEAL - LaTeX - https://github.com/Pau-Frangi/Geometria-Lineal
+  2º semester
+    ESTRUCTURA DE COMPUTADORES - C - https://github.com/DIEGOROCU/EC
 -->
 This are all the projects and exercises I have done during my Dual Bachelor's Degree in Computer Engineering and Mathematics at Complutense University of Madrid:
 
@@ -61,6 +63,9 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
   <img width="6" />](https://github.com/Pau-Frangi/Variable-Compleja)
     - [GEOMETRIA LINEAL <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/Pau-Frangi/Geometria-Lineal)
+  - 2º semester
+    - [ESTRUCTURA DE COMPUTADORES <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/EC)
 - **2º year**
   - 2º semester
     - [ESTRUCTURAS DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
