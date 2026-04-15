@@ -2,8 +2,16 @@
 
 ###
 
+<!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DIEGOROCU&theme=tokyonight" height="180" alt="GitHub Streak Stats" />
+</div>
+-->
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=DIEGOROCU&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=DIEGOROCU&theme=dark&hide_border=false" alt="GitHub streak stats" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DIEGOROCU&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top languages" />
 </div>
 
 ###
