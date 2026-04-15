@@ -106,6 +106,7 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
 Other personal projects I have worked on during my free time:
 
 - [**AgroGuard Hackaton**](https://github.com/DIEGOROCU/AgroGuard-Hackaton)
+- [**CVA6S+: mas madera para el hardware open-source**](https://github.com/DIEGOROCU/CVA6S-mas-madera-para-el-hardware-open-source) *(Articulo)*
 
 ###
 
