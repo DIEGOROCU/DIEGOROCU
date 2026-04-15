@@ -2,14 +2,8 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=DIEGOROCU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIEGOROCU&layout=compact&theme=tokyonight&langs_count=8" alt="Top languages" />
-  </a>
-</div>
+
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DIEGOROCU)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
