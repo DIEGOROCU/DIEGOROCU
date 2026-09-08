@@ -62,6 +62,14 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
   - 2º semester
     - [ESTRUCTURA DE COMPUTADORES <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/EC)
+    - [METODOS ALGORITMICOS EN RESOLUCION DE PROBLEMAS 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/MARP2)
+    - [METODOS NUMERICOS <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/Pau-Frangi/Metodos_Numericos)
+    - [TOPOLOGIA ELEMENTAL <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/Pau-Frangi/Topologia)
+    - [ELEMENTOS DE ECUACIONES DIFERENCIALES ORDINARIAS <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
+  <img width="6" />](https://github.com/Pau-Frangi/Ecuaciones_Diferenciales)
 - **2º year**
   - 2º semester
     - [ESTRUCTURAS DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -81,8 +89,6 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
   <img width="6" />](https://github.com/DIEGOROCU/FAL-Ejericios)
     - [TECNOLOGIA DE LA PROGRAMACIÓN 1 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="6" />](https://github.com/DIEGOROCU/TP1-Practica)
-  - [**Plantilla de Apuntes** <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
-  <img width="6" />](https://github.com/DIEGOROCU/Plantilla-Apuntes)
 - **1º year**
   - 2º semester
     - [FUNDAMENTOS DE LA PROGRAMACIÓN 2 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
