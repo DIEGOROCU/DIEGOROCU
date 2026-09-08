@@ -47,6 +47,10 @@
 -->
 This are all the projects and exercises I have done during my Dual Bachelor's Degree in Computer Engineering and Mathematics at Complutense University of Madrid:
 
+- **4º year**
+  - 1º semester
+    - [PROGRAMACION DECLARATIVA <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="haskell logo"  />
+  <img width="6" />](https://github.com/DIEGOROCU/PD)
 - **3º year**
   - 1º semester
     - [BASES DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="30" alt="sql logo"  />
