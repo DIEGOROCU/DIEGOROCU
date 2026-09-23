@@ -73,7 +73,7 @@ This are all the projects and exercises I have done during my Dual Bachelor's De
     - [TOPOLOGIA ELEMENTAL <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
   <img width="6" />](https://github.com/Pau-Frangi/Topologia)
     - [ELEMENTOS DE ECUACIONES DIFERENCIALES ORDINARIAS <img src="https://raw.githubusercontent.com/DIEGOROCU/DIEGOROCU/main/ICONS/TeXShop_icon.png" height="30" alt="latex logo"  />
-  <img width="6" />](https://github.com/Pau-Frangi/Ecuaciones_Diferenciales)
+  <img width="6" />](https://github.com/DIEGOROCU/ED)
 - **2º year**
   - 2º semester
     - [ESTRUCTURAS DE DATOS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
